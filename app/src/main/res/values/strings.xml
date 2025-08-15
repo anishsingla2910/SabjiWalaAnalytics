@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SabjiWala(Analytics)</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="privacy_policy" translatable="false"><u>Privacy Policy</u></string>
+    <string name="terms_of_service" translatable="false"><u>Terms of Service</u></string>
+    <string name="divider_bullet" translatable="false">•</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="master_list">Master List</string>
+    <string name="log_out">Log Out</string>
+    <string name="customers">Customers</string>
+    <string name="shops">Shops</string>
+    <string name="add_category">Add Category</string>
+</resources>
